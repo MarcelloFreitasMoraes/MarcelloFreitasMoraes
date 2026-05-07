@@ -16,10 +16,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarcelloFreitasMoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcelloFreitasMoraes&layout=compact&langs_count=8&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=MarcelloFreitasMoraes&theme=tokyonight&hide_border=true)
 ---
 
