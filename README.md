@@ -16,19 +16,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/MarcelloFreitasMoraes">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcelloFreitasMoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/MarcelloFreitasMoraes">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloFreitasMoraes&layout=compact&langs_count=8&theme=tokyonight" />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarcelloFreitasMoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarcelloFreitasMoraes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcelloFreitasMoraes&layout=compact&langs_count=8&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=MarcelloFreitasMoraes&theme=tokyonight&hide_border=true)
 ---
 
 ## 🧰 Tecnologias e Ferramentas
@@ -58,6 +50,8 @@
 
 ---
 
+
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/MarcelloFreitasMoraes/MarcelloFreitasMoraes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MarcelloFreitasMoraes/MarcelloFreitasMoraes/output/github-contribution-grid-snake.svg)
+
